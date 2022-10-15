@@ -1,5 +1,7 @@
 # vueadmin
 
+This is an empty project of VUE3. When your computer cannot generate it, it will be very useful.
+
 ## Project setup
 ```
 npm install
